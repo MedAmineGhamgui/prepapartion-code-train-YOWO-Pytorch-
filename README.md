@@ -57,3 +57,7 @@ Pour lancer l'entraînement, suivez les étapes ci-dessous :
    pip install -r requirements.txt 
 3. Lancez le script d'entraînement :
    python train_finetuning_ava.py
+
+
+---
+Cette version est développée par Mohamed Amine Ghamgui.
